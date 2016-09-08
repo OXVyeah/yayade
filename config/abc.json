@@ -2,7 +2,16 @@
    
 	
 	{
-	"module":"screenshotter"
+<<<<<<< HEAD
+	"module":"dirlister"
 	}
 	
 ]
+=======
+	"module":"dirlister"
+	},
+	{
+	"module":"screenshotter"
+	}
+]
+>>>>>>> f87057b0966c08e0d01246647a0566ade08a2f51
