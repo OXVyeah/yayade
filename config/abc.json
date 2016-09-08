@@ -3,4 +3,7 @@
 	{
 	"module":"dirlister"
 	}
+	{
+	"module":"screenshotter"
+	}
 ]
