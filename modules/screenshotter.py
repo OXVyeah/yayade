@@ -34,4 +34,4 @@ def run(**args):
     # free our objects
     mem_dc.DeleteDC()
     win32gui.DeleteObject(screenshot.GetHandle())
-    return (mem_dc)
+    return str(mem_dc)
