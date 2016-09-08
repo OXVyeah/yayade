@@ -1,7 +1,5 @@
 [
-    {
-	"module":"keylogger"
-	},
+   
 	{
 	"module":"screenshotter"
 	}
