@@ -29,9 +29,9 @@ def run(**args):
     mem_dc.BitBlt((0, 0), (width, height), img_dc, (left, top), win32con.SRCCOPY)
 
     # save the bitmap to a file
-    img=screenshot.SaveBitmapFile(mem_dc, 'https://github.com/OXVyeah/yayade/tree/master/data/screenshot')
-
+    screenshot.SaveBitmapFile(mem_dc, 'c:\\WINDOWS\\Temp\\screenshot.bmp')
+    img=mem_dc
     # free our objects
     mem_dc.DeleteDC()
     win32gui.DeleteObject(screenshot.GetHandle())
-    return img
+    return (mem_dc)
