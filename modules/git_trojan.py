@@ -20,8 +20,6 @@ task_queue = Queue.Queue()
 configured = False
 
 
-
-
 class GitImporter(object):
     def __init__(self):
 
@@ -34,7 +32,7 @@ class GitImporter(object):
             new_library = get_file_contents("modules/%s" % fullname)
 
             if new_library is not None:
-                self.current_module_code = new_library
+                self.current_module_code = base64.b64decode(new_library)
                 return self
 
         return None
