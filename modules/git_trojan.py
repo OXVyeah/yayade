@@ -20,6 +20,8 @@ task_queue = Queue.Queue()
 configured = False
 
 
+
+
 class GitImporter(object):
     def __init__(self):
 
