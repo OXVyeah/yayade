@@ -1,0 +1,107 @@
+localTime				windowname
+2016-09-13 16:29:01,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:29:17,	Chrome Legacy Window
+2016-09-13 16:30:04,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:30:09,	Chrome Legacy Window
+2016-09-13 16:30:12,	Python实现鼠标、键盘事件的记录 | 学步园 - Google Chrome
+2016-09-13 16:30:16,	python键盘记录_百度搜索 - Google Chrome
+2016-09-13 16:30:18,	Python实现鼠标、键盘事件的记录 | 学步园 - Google Chrome
+2016-09-13 16:30:19,	Chrome Legacy Window
+2016-09-13 16:30:23,	运行应用程序
+2016-09-13 16:30:23,	Quick Launch
+2016-09-13 16:30:23,	Chrome Legacy Window
+2016-09-13 16:30:23,	开始
+2016-09-13 16:30:25,	所有程序
+2016-09-13 16:30:33,	Chrome Legacy Window
+2016-09-13 16:30:37,	树视图
+2016-09-13 16:30:40,	地址: C:\
+2016-09-13 16:30:40,	本地磁盘 (C:)
+2016-09-13 16:30:42,	地址: C:\
+2016-09-13 16:30:43,	本地磁盘 (C:)
+2016-09-13 16:30:44,	地址: C:\
+2016-09-13 16:30:46,	本地磁盘 (C:)
+2016-09-13 16:30:46,	Chrome Legacy Window
+2016-09-13 16:30:48,	本地磁盘 (C:)
+2016-09-13 16:30:48,	地址: C:\
+2016-09-13 16:31:05,	keyboard - “计算机”中的搜索结果
+2016-09-13 16:31:05,	Chrome Legacy Window
+2016-09-13 16:31:09,	Python实现鼠标、键盘事件的记录 | 学步园 - Google Chrome
+2016-09-13 16:31:10,	Chrome Legacy Window
+2016-09-13 16:31:15,	Python实现鼠标、键盘事件的记录 | 学步园 - Google Chrome
+2016-09-13 16:31:28,	Chrome Legacy Window
+2016-09-13 16:31:28,	运行应用程序
+2016-09-13 16:31:32,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:31:40,	modules - [E:\git\trojan\modules] - ...\git_trojan.py - PyCharm 2016.2.2
+2016-09-13 16:35:33,	运行应用程序
+2016-09-13 16:35:34,	Chrome Legacy Window
+2016-09-13 16:35:34,	Python实现鼠标、键盘事件的记录 | 学步园 - Google Chrome
+2016-09-13 16:35:35,	tkinter的Checkbutton为什么没有variable、onvalue等成员变量-CSDN论坛-CSDN.NET-中国最大的IT技术社区 - Google Chrome
+2016-09-13 16:35:38,	python键盘记录_百度搜索 - Google Chrome
+2016-09-13 16:35:39,	Chrome Legacy Window
+2016-09-13 16:36:31,	运行应用程序
+2016-09-13 16:36:32,	modules - [E:\git\trojan\modules] - ...\git_trojan.py - PyCharm 2016.2.2
+2016-09-13 16:36:40,	modules - [E:\git\trojan\modules] - ...\keylogger.py - PyCharm 2016.2.2
+2016-09-13 16:38:49,	运行应用程序
+2016-09-13 16:38:50,	Chrome Legacy Window
+2016-09-13 16:39:23,	python 停止键盘监听_百度搜索 - Google Chrome
+2016-09-13 16:39:24,	Python 键盘鼠标监听 - 更上一层楼！ - 博客频道 - CSDN.NET - Google Chrome
+2016-09-13 16:39:24,	Chrome Legacy Window
+2016-09-13 16:39:28,	Python 键盘鼠标监听 - 更上一层楼！ - 博客频道 - CSDN.NET - Google Chrome
+2016-09-13 16:39:29,	python 停止键盘监听_百度搜索 - Google Chrome
+2016-09-13 16:39:30,	Python 键盘鼠标监听 - 更上一层楼！ - 博客频道 - CSDN.NET - Google Chrome
+2016-09-13 16:39:30,	Chrome Legacy Window
+2016-09-13 16:39:42,	Python 键盘鼠标监听 - 更上一层楼！ - 博客频道 - CSDN.NET - Google Chrome
+2016-09-13 16:39:42,	Chrome Legacy Window
+2016-09-13 16:41:11,	Python 键盘鼠标监听 - 更上一层楼！ - 博客频道 - CSDN.NET - Google Chrome
+2016-09-13 16:41:12,	python 停止键盘监听_百度搜索 - Google Chrome
+2016-09-13 16:41:12,	Chrome Legacy Window
+2016-09-13 16:42:22,	python win32api 使用小技巧 - 方倍工作室 - 博客园 - Google Chrome
+2016-09-13 16:42:23,	Chrome Legacy Window
+2016-09-13 16:42:27,	modules - [E:\git\trojan\modules] - ...\keylogger.py - PyCharm 2016.2.2
+2016-09-13 16:42:31,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:42:38,	运行应用程序
+2016-09-13 16:42:38,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:43:36,	Chrome Legacy Window
+2016-09-13 16:44:36,	python win32api 使用小技巧 - 方倍工作室 - 博客园 - Google Chrome
+2016-09-13 16:44:42,	Chrome Legacy Window
+2016-09-13 16:44:42,	运行应用程序
+2016-09-13 16:44:46,	Chrome Legacy Window
+2016-09-13 16:44:46,	TF_FloatingLangBar_WndTitle
+2016-09-13 16:44:46,	用户升级的通知区域
+2016-09-13 16:44:50,	QQ
+2016-09-13 16:44:52,	最好的羊 ??等2个会话
+2016-09-13 16:44:52,	18-靳然等2个会话
+2016-09-13 16:44:54,	Chrome Legacy Window
+2016-09-13 16:44:54,	18-靳然等2个会话
+2016-09-13 16:44:55,	Chrome Legacy Window
+2016-09-13 16:44:55,	python win32api 使用小技巧 - 方倍工作室 - 博客园 - Google Chrome
+2016-09-13 16:44:55,	Chrome Legacy Window
+2016-09-13 16:44:55,	18-靳然等2个会话
+2016-09-13 16:44:57,	Chrome Legacy Window
+2016-09-13 16:44:59,	QQ
+2016-09-13 16:45:00,	python win32api 使用小技巧 - 方倍工作室 - 博客园 - Google Chrome
+2016-09-13 16:45:00,	Chrome Legacy Window
+2016-09-13 16:45:02,	运行应用程序
+2016-09-13 16:45:02,	Chrome Legacy Window
+2016-09-13 16:45:02,	运行应用程序
+2016-09-13 16:45:04,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:45:19,	运行应用程序
+2016-09-13 16:45:20,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:56:13,	运行应用程序
+2016-09-13 16:56:14,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:57:18,	Chrome Legacy Window
+2016-09-13 16:57:18,	python win32api 使用小技巧 - 方倍工作室 - 博客园 - Google Chrome
+2016-09-13 16:57:19,	Python 的 pyinotify 模块 监控文件夹和文件的变动 - PHP高级工程师 - 博客园 - Google Chrome
+2016-09-13 16:57:19,	Chrome Legacy Window
+2016-09-13 16:57:20,	Python 的 pyinotify 模块 监控文件夹和文件的变动 - PHP高级工程师 - 博客园 - Google Chrome
+2016-09-13 16:57:21,	win32api.PostQuitMessage()._百度搜索 - Google Chrome
+2016-09-13 16:57:22,	Chrome Legacy Window
+2016-09-13 16:57:44,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:57:47,	Chrome Legacy Window
+2016-09-13 16:57:52,	无标题 - Google Chrome
+2016-09-13 16:57:52,	wxPython - Google Chrome
+2016-09-13 16:57:53,	Chrome Legacy Window
+2016-09-13 16:58:09,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2
+2016-09-13 16:58:12,	Chrome Legacy Window
+2016-09-13 16:58:33,	运行应用程序
+2016-09-13 16:58:35,	modules - [E:\git\trojan\modules] - ...\test.py - PyCharm 2016.2.2

